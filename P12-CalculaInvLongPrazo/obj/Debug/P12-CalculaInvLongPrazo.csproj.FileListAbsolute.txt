@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\bin\Debug\P12-CalculaInvLongPrazo.exe.config
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\bin\Debug\P12-CalculaInvLongPrazo.exe
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\bin\Debug\P12-CalculaInvLongPrazo.pdb
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\obj\Debug\P12-CalculaInvLongPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\obj\Debug\P12-CalculaInvLongPrazo.exe
+C:\Users\Lucas\source\repos\AprendendoCSharp\P12-CalculaInvLongPrazo\obj\Debug\P12-CalculaInvLongPrazo.pdb
