@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\bin\Debug\4-CoversaoOutrosTiposNumericos.exe.config
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\bin\Debug\4-CoversaoOutrosTiposNumericos.exe
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\bin\Debug\4-CoversaoOutrosTiposNumericos.pdb
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\obj\Debug\4-CoversaoOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\obj\Debug\4-CoversaoOutrosTiposNumericos.exe
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\obj\Debug\4-CoversaoOutrosTiposNumericos.pdb
+C:\Users\Lucas\source\repos\AprendendoCSharp\4-CoversaoOutrosTiposNumericos\obj\Debug\4-CoversaoOutrosTiposNumericos.csprojAssemblyReference.cache
